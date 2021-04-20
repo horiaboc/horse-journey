@@ -1,0 +1,11 @@
+.tile {
+  width: 1px;
+  height: 1px;
+  background-size: 100px;
+  background-color: white;
+  color: red;
+  opacity: 0.6;
+  border: 1px;
+  border-color: black;
+  border-style: solid;
+}
